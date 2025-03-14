@@ -6,7 +6,8 @@
     <a href="#key-features">Key Features</a> •
     <a href="#how-to-use">How To Use</a> •
     <a href="#credits">Credits</a> •
-    <a href="#license">License</a>
+    <a href="#license">License</a> •
+    <a href="#contact">Contact</a>
   </p>
 </div>
 <img src="https://github.com/Robbna/QuickKeys/blob/master/documentation/img/mockups/mock_4.png" alt="QuickKeys mock multiple"/>
@@ -57,12 +58,8 @@ QuickKeys is built with these open-source tools:
 
 QuickKeys is licensed under the [GNU General Public License v3.0 (GPL v3)](https://www.gnu.org/licenses/gpl-3.0.en.html). You’re free to use, modify, and share it, as long as any forks remain open-source. Please don’t distribute it commercially—let’s keep it free for everyone!
 
----
-GitHub <a href="https://github.com/robbna">Robbna</a>
-&nbsp;&middot;&nbsp;
-X/Twitter <a href="https://x.com/DEVSIK0">@DEVSIK0</a>
 
-## 🔗 Links
+## Contact
 [![Github](https://img.shields.io/badge/robbna-white?logo=github&logoColor=black)](https://github.com/robbna)
 [![X/Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FDEVSIK0&label=DEVSIK0)](https://x.com/DEVSIK0)
 
