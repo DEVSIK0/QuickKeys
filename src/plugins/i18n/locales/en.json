@@ -1,0 +1,53 @@
+{
+  "dialog": {
+    "title": "New phrase"
+  },
+  "toast": {
+    "success": {
+      "add": "Phrase added successfully",
+      "delete": "Phrase deleted successfully"
+    },
+    "error": {
+      "add": "Error adding phrase",
+      "delete": "Error deleting phrase",
+      "exists": "This text already exists"
+    }
+  },
+  "form": {
+    "phrase": {
+      "shortcut": {
+        "label": "Shortcut",
+        "placeholder": "Select shortcut"
+      },
+      "text": {
+        "label": "Text",
+        "placeholder": "Enter text",
+        "error": {
+          "exists": "This text already exists"
+        }
+      },
+      "submit": "Save",
+      "cancel": "Cancel"
+    }
+  },
+  "datatable": {
+    "columns": {
+      "shortcut": "Shortcut",
+      "text": "Text",
+      "date": "Creation date"
+    },
+    "buttons": {
+      "add": "Add",
+      "delete": "Delete"
+    },
+    "chat": {
+      "shortcut": {
+        "label": "Open chat key",
+        "placeholder": "Select keys"
+      }
+    },
+    "phrases": {
+      "empty": "No phrases yet. Please, select a key to open the chat and add a new phrase."
+    }
+  }
+}

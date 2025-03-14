@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'geist';
+  src: url('../assets/fonts/Geist.ttf') format("truetype");
+}
+
+:root {
+  --font: geist, system-ui, Helvetica, Verdana, Arial, Helvetica, sans-serif;
+}

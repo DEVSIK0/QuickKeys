@@ -1,0 +1,53 @@
+{
+  "dialog": {
+    "title": "Nueva frase"
+  },
+  "toast": {
+    "success": {
+      "add": "Frase añadida con éxito",
+      "delete": "Frase eliminada con éxito"
+    },
+    "error": {
+      "add": "Error al añadir la frase",
+      "delete": "Error al eliminar la frase",
+      "exists": "Este texto ya existe"
+    }
+  },
+  "form": {
+    "phrase": {
+      "shortcut": {
+        "label": "Atajo",
+        "placeholder": "Seleccionar atajo"
+      },
+      "text": {
+        "label": "Texto",
+        "placeholder": "Introducir texto",
+        "error": {
+          "exists": "Este texto ya existe"
+        }
+      },
+      "submit": "Guardar",
+      "cancel": "Cancelar"
+    }
+  },
+  "datatable": {
+    "columns": {
+      "shortcut": "Atajo",
+      "text": "Texto",
+      "date": "Fecha de creación"
+    },
+    "buttons": {
+      "add": "Añadir",
+      "delete": "Eliminar"
+    },
+    "chat": {
+      "shortcut": {
+        "label": "Tecla para abrir el chat",
+        "placeholder": "Seleccionar teclas"
+      }
+    },
+    "phrases": {
+      "empty": "Aún no hay frases. Por favor, selecciona una tecla para abrir el chat y añade una nueva frase."
+    }
+  }
+}

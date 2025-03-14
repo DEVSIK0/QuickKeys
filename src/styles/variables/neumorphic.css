@@ -1,0 +1,9 @@
+:root {
+  --nm: 6px 6px 16px 0 rgba(0, 0, 0, 0.2),
+    -6px -6px 16px 0 rgba(255, 255, 255, 1);
+
+  --nm-inset: inset 4px 4px 8px 0 rgba(0, 0, 0, 0.2),
+    inset -4px -4px 8px 0 rgba(255, 255, 255, 0.8);
+
+  --nm-border-color: #eef0f4;
+}
