@@ -35,7 +35,7 @@ All your phrases and preferences are saved so you can pick up right where you le
 To clone and run QuickKeys, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which includes [npm](http://npmjs.com)) installed on your computer. Follow these steps:
 ```bash
 # Clone this repository
-$ git clone https://github.com/robbna/quickkeys
+$ git clone https://github.com/DEVSIK0/quickkeys
 
 # Go into the repository
 $ cd quickkeys
